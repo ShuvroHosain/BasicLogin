@@ -56,3 +56,4 @@ Here i share the Demo code and the Sql file,and also upload the script with our 
 
 
 Live Demo : http://fnfbd.org/workshop/demo/login.php
+Video Tutorial: https://youtu.be/iDoe-yNspAc
